@@ -23,4 +23,4 @@ The application features a responsive user interface powered by React.js and Boo
 The UI adapts seamlessly to various screen sizes, providing an optimal user experience on both desktop and mobile devices.
 
 
-[![Watch the video]([https://youtu.be/mdGVWea07J0](https://youtu.be/5T7URo7GXnI)https://youtu.be/5T7URo7GXnI)]
+[![Watch the video](https://www.youtube.com/watch?v=5T7URo7GXnI)]
