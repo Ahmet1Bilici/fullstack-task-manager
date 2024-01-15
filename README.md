@@ -22,5 +22,4 @@ Responsive UI
 The application features a responsive user interface powered by React.js and Bootstrap.
 The UI adapts seamlessly to various screen sizes, providing an optimal user experience on both desktop and mobile devices.
 
-
-[![Watch the video](https://www.youtube.com/watch?v=5T7URo7GXnI)]
+[![Watch the video](https://img.youtube.com/vi/5T7URo7GXnI/0.jpg)](https://www.youtube.com/watch?v=5T7URo7GXnI)
